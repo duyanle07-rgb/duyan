@@ -116,7 +116,7 @@ ul li a:hover{
 .content.par{
     padding-left: 20px;
     padding-bottom: 25px;
-    font-family: Arial;
+    font-family: 'Arial';
     letter-spacing: 1.2px;
     line-height: 30px;
 }
@@ -221,6 +221,7 @@ background: transparent;
     background: #fff;
     color: #15ff00a1;
 }
+
 
 
 
