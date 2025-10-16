@@ -202,7 +202,7 @@ background: transparent;
 
 ::placeholder{
     color: #fff;
-    font-family: Arial;
+    font-family: 'Arial';
 }
 
 .btnn{
@@ -221,6 +221,7 @@ background: transparent;
     background: #fff;
     color: #15ff00a1;
 }
+
 
 
 
