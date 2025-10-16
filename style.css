@@ -195,3 +195,48 @@ background: transparent;
     margin-top: 30px;
     font-family: sans-serif;
 }
+
+.form input:focus{
+    outline: none;
+}
+
+::placeholder{
+    color: #fff;
+    font-family: Arial;
+}
+
+.btnn{
+    width :240px;
+    height: 40px;
+    background: #15ff00a1;
+    border: none;
+    margin-top: 30px;
+    font-size: 16px;
+    border-radius: 5px;
+    cursor: pointer;
+    color: #fff;
+}
+
+.btnn:hover{
+    background: #fff;
+    color: #15ff00a1;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
