@@ -1,3 +1,11 @@
+(link)
+
+https://unpkg.com/ionicons@5.4.0/dist/ionicons.js
+
+
+
+(code)
+
 (function(doc){
   var scriptElm = doc.scripts[doc.scripts.length - 1];
   var warn = ['[ionicons] Deprecated script, please remove: ' + scriptElm.outerHTML];
